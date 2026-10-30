@@ -3,7 +3,7 @@
   "name": "Hello",
   "description": "Adds a Say hello command to the command palette.",
   "version": "1.0.0",
-  "apiVersion": 2,
+  "apiVersion": 3,
   "kind": "extension",
   "capabilities": [],
   "activation": "command",
